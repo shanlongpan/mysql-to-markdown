@@ -2,11 +2,11 @@
 mysql 数据库详细信息转化成markdown格式
 ## 使用方法
 ### 1.0 安装
-  go get github.com/shanlongpan/mysql-to-markdown
-  cd $GOPATH/src/shanlongpan/mysql-to-markdown
-  go build explainMysql.go
-  修改  test.yaml 里面对应的数据库信息
-  ./explainMysql test.yaml
+    go get github.com/shanlongpan/mysql-to-markdown
+    cd $GOPATH/src/shanlongpan/mysql-to-markdown
+    go build explainMysql.go
+    修改  test.yaml 里面对应的数据库信息
+    ./explainMysql test.yaml
   
 ### 生成的文件格式为 mydatabese.md (对应的数据库名字)
 
