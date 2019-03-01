@@ -2,6 +2,12 @@
 mysql 数据库详细信息转化成markdown格式
 ## 使用方法
 ### 1.0 安装
+    程序使用前需要安装扩展库
+    go get -u github.com/go-sql-driver/mysql
+    和yaml解析的扩展库
+    go get gopkg.in/yaml.v2
+    
+    开始使用：
     go get github.com/shanlongpan/mysql-to-markdown
     cd $GOPATH/src/shanlongpan/mysql-to-markdown
     go build explainMysql.go
