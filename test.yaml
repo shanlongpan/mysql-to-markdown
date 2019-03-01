@@ -1,3 +1,3 @@
 #DB: ["apollo:jkfdaskie@u!@tcp(10.99.2.71:3306)/apollo_dcenter?parseTime=true&loc=Local","apollo:jkfdaskie@u!@tcp(10.99.2.71:3306)/apollo?parseTime=true&loc=Local"]
-DB: ["root:zhaoliqing@tcp(127.0.0.1:3306)/test?parseTime=true&loc=Local","root:zhaoliqing@tcp(127.0.0.1:3306)/cms?parseTime=true&loc=Local"]
+DB: ["root:password@tcp(127.0.0.1:3306)/test?parseTime=true&loc=Local","root:password@tcp(127.0.0.1:3306)/cms?parseTime=true&loc=Local"]
 
